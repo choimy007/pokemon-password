@@ -7,7 +7,8 @@ Link to the xkcd strip [here](https://xkcd.com/936/).
 
 1. Clone the repository in any directory
 2. Run `python pokemon-password`
-3. Delete the repo after you find a satisfactory password with 'rm pokemon-password'
+3. Select which generations of Pokemon you want, separated by space (ex. 1 2 3)
+4. Delete the repo after you find a satisfactory password with 'rm pokemon-password'
 
 ## Aside
 
