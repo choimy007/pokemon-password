@@ -12,4 +12,4 @@ Link to the xkcd strip [here](https://xkcd.com/936/).
 
 ## Aside
 
-This is my first project, so feel free to report any bugs, any wanted features, or anything I should include!
+This is my first self-initiated project, so feel free to report any bugs, any wanted features, or anything I should include!
